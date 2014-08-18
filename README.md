@@ -12,12 +12,11 @@ jQuery Plugin to get the mouseX and Y positions within any element.
 <script src="mousexy.js"></script>
 
 ```
-Call mousexy on your element.
+Call mousexy() on your element.
 
 ```html
-<div id="mousexy" style="height:500px; background:#eee;">
-	
-</div>
+<div id="mousexy" style="height:500px; background:#eee;"></div>
+
 <script>
 $('#mousexy').mousexy();
 </script>
