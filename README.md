@@ -1,7 +1,7 @@
 mousexy.js
 ==========
 
-Gett the mouseX and Y positions of any element.
+Get the mouseX and Y positions of any element.
 
 ```html 
 <!-- jQuery 1.11.1 -->
