@@ -1,5 +1,5 @@
 (function($){
-    $.fn.mousexy = function(options) {
+    $.fn.mousexy = function(el, options) {
     
     $(function () {
         $(document).tooltip({
@@ -7,8 +7,7 @@
         });
     });
 
-    var $stage = $('#mousexy');
-
+    var $stage = $(this);
 
     $stage.mousemove(function (e) {
 
