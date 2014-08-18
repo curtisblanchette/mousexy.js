@@ -2,6 +2,7 @@ mousexy.js
 ==========
 
 Get the mouseX and Y positions of any element.
+<a href="https://rawgit.com/curtisblanchette/mousexy.js/master/index.html">See the Demo</a>
 
 ```html 
 <!-- jQuery 1.11.1 -->
